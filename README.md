@@ -6,9 +6,9 @@ This is a demo web application of how we transfer funds via net banking from one
 
 1)**Login** : I have created a four demo accounts with it's password , that are =>  
 
-a) username = jd and password = 1111 , 
+a) username = js and password = 1111 , 
 
-b) username = js and password = 2222, 
+b) username = jd and password = 2222, 
 
 c) username = stw and password = 3333,
 
