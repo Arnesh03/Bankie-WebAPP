@@ -4,32 +4,32 @@ This is a demo web application of how we transfer funds via net banking from one
 
 ## It contains some features like : 
 
-1)**Login** : I have created a four demo accounts with it's password , that are =>  
+**Login**: The demo web application provides four demo accounts to log in and access the features. These demo accounts have pre-defined usernames and passwords.
+The first account has a username of "js" and a password of "1111". 
 
-a) username = js and password = 1111 , 
+The second account has a username of "jd" and a password of "2222". 
 
-b) username = jd and password = 2222, 
+The third account has a username of "stw" and a password of "3333". 
 
-c) username = stw and password = 3333,
+The fourth account has a username of "ss" and a password of "4444".
 
-d) username = ss and password = 4444. 
+**Logout**: The application has an automatic timer that starts when you log in to one of the demo accounts. If you do not perform any actions within the application before the timer expires, you will be automatically logged out. This is to ensure the security of the account and to prevent unauthorized access.
 
+**Loan**: The demo web application provides a loan feature, which allows users to get a loan from the application. The loan amount will be directly added to the user's bank balance. However, there is a certain limit to the amount that a user can get as a loan.
 
-2)**Logout** = Their is an automatic timer , it will start as you login into the account . You will be automatically logged out after the given timer expires if you don't perform any action int the aplication within that time .
+**Transfer**: One of the main features of this demo web application is the ability to transfer funds from one demo account to another. To do this, the user needs to specify the sender and receiver accounts and the amount to be transferred. The transferred funds will be deducted from the sender's account and added to the receiver's account.
 
-3)**Loan** = You can also get a loan form it,
-             It will be directly added to your bank balance .
-             Their is some certain amount that you can get a loan of a finite value.
-             
-4)**Transfer** = You are also able to transfer the amount from one demo account to another demo account . The transfered fund will de deducted from the sender and it will bw added to the reciever's balance . 
+**Delete account**: The user can delete the account they are currently logged into. Once the account is deleted, it will no longer be available to the user and they will not be able to transfer funds to or perform any actions on that account. The user will be automatically logged out immediately after the account is deleted.
 
-5)**Delete account** = You can delete your own account in which you are currently in . After the deletion it will no longer be available to you and you will be unadle to transfer the funds to that account any more or preform any action in that . You will be automatically be logged out immediatemy after deletion of the account . 
+**Sorting**: The user can sort the history of their transactions, including deposits and withdrawals, based on the value of the transactions. This makes it easier for the user to keep track of their financial activity and monitor their bank balance.
 
-6)**Sorting** = User can sort the history of the transactions he/she had made according to the value deposited or the value withdrawn .
-
-7)**Day** = User can see the day at which he/she had made the transaction of value deposited or withdrawn . 
+**Day**: The demo web application also provides information about the day when a deposit or withdrawal transaction was made. This helps the user keep track of their financial activities and manage their funds more effectively.
 
 
+
+## THE LINK OF THE PROJECT IS GIVEN BELOW : 
+
+https://arnesh-bankie-web-app.netlify.app/
 
 
              
